@@ -1,0 +1,3 @@
+[submodule "KiCadMikroKopter"]
+	path = KiCadMikroKopter
+	url = git@github.com:ctraabe/KiCadMikroKopter.git
